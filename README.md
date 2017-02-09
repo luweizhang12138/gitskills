@@ -1,5 +1,5 @@
 # gitskills
-lpl
+lpl EDG
 lck
 LPL
 LCK
