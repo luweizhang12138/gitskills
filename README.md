@@ -1,6 +1,6 @@
 # gitskills
 lpl EDG
-lck
+lck SKT
 LPL
 LCK
 LCS
