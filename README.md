@@ -1,7 +1,7 @@
 # gitskills
 lpl EDG
 lck SKT
-LPL
+LPL LGD
 LCK
 LCS
 LMS
